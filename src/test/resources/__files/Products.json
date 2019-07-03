@@ -1,0 +1,11 @@
+{
+	"product": [
+		{
+			"productID": "String",
+			"name": "String",
+			"category": "String",
+			"availableQuantity": "number",
+			"price": "number"
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"product": [
+		{
+			"productID": "1",
+			"name": "iPhone X",
+			"category": "mobiles",
+			"availableQuantity": 20,
+			"price": 90000
+		},
+		{
+			"productID": "2",
+			"name": "Dairy Milk",
+			"category": "Chocolates",
+			"availableQuantity": 50,
+			"price": 50
+		},
+		{
+			"productID": "3",
+			"name": "Dell Lattitude E7560",
+			"category": "Electronics",
+			"availableQuantity": 15,
+			"price": 67500
+		},
+		{
+			"productID": "4",
+			"name": "American Tourister A89",
+			"category": "Bags",
+			"availableQuantity": 10,
+			"price": 4390
+		},
+		{
+			"productID": "5",
+			"name": "Sonata SXD6",
+			"category": "Watches",
+			"availableQuantity": 30,
+			"price": 2340
+		}
+	]
+}
